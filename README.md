@@ -182,6 +182,17 @@ Move Asia to Server-Beta-Primary
 Rollback Europe
 ```
 
+## 🖥️ Project Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Network Topology
+![Network Topology](screenshots/network-topology.png)
+
+### Audit History
+![Audit History](screenshots/audit-history.png)
+
 The application validates commands, communicates with the backend and displays the operation result.
 
 ## 📊 Dashboard Modules
